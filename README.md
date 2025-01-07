@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=mylRalph)
 ![](https://hit.yhype.me/github/profile?account_id=95121572)
 
-[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=g7JgWAnNj6K9wyvCSpRZpiWYhKDXlksO8sRGHl3tkCg&cl=ffffff)](https://clustrmaps.com/site/1c3ot)
+[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=g7JgWAnNj6K9wyvCSpRZpiWYhKDXlksO8sRGHl3tkCg&co=e5e9ec&ct=ffffff)](https://clustrmaps.com/site/1c3ot)
